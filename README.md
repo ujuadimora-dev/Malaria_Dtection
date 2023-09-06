@@ -15,6 +15,7 @@
 1. Open a new terminal and <code>pip3 install -r requirements.txt</code>
 
 1. In the terminal type <code>pip3 install jupyter</code>
+5a9b1ff3-69ab-4800-b22f-b37a770880fb
 
 1. In the terminal type <code>jupyter notebook --NotebookApp.token='' --NotebookApp.password=''</code> to start the jupyter server.
 
